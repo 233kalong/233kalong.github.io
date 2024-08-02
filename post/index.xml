@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://github.com/233kalong/233kalong.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 17:00:31 +0800</lastBuildDate>
+    <atom:link href="https://github.com/233kalong/233kalong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://github.com/233kalong/233kalong.github.io/post/blog/</link>
+      <pubDate>Fri, 02 Aug 2024 17:00:31 +0800</pubDate>
+      <guid>https://github.com/233kalong/233kalong.github.io/post/blog/</guid>
+      <description>#前端&#xA;写网页就是用标签分割成盒子，用样式来控制外观和位置 先用 html 写好布局，想好需求，哪里弄菜单，哪里弄笔记，哪里显示个人信息等。 函数和数据思想 ![[Pasted image 20240729174446.png]] ![[Pasted image 20240729174500.png]] ![[Pasted image 20240729174546.png]] 处理逻辑和语法 逻辑：扫描里面的标签，&amp;lt;/p&amp;gt;是结束标签， 模块思想，一个&amp;lt;&amp;gt;&amp;hellip;&amp;hellip;&amp;lt;&amp;gt;,里面就代表着一个模块，&amp;lt;p&amp;gt;.....&amp;lt;/p&amp;gt;代表着标签能够实现各种不同的功能，在一个模块中具体点，&amp;lt;p style=&amp;quot; &amp;quot;&amp;gt;..&amp;lt;/p&amp;gt;,&#xA;语法：CSS,样式 ， &amp;lt;p style=&amp;quot;具体属性&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;，有的标签有默认的样式，比如颜色，上下左右间距 display:block; 显示块，告诉浏览器，占满上一级盒子的一整行,![[Pasted image 20240729181423.png]] 还可以自定义标签&amp;lt;任意&amp;gt;...&amp;lt;/任意&amp;gt; 各种 style：![[Pasted image 20240729183631.png]] 标签有很多，搜索即可，两个推荐网站![[Pasted image 20240729194507.png]] html 有标准模板 &amp;lt;div&amp;gt;是专门用来形成块盒子的标签 图片标签&amp;lt;img&amp;gt;![[Pasted image 20240729195209.png]] 整体 形象比喻![[Pasted image 20240730175341.png]] HTML 显示你要显示的内容 CSS 浏览器排版：盒子模型（块级和内联）：![[Pasted image 20240730195424.png]] 盒子布局有三种：margin，边距 border,边框 padding 填充（内边距）找个盒子自己看看 一个重要布局属性：display:flex 弹性盒子模型 颜色，背景颜色，动效 div 代表着一个盒子，默认 display:block 是一个块，改成 flex,变成弹性盒子 </description>
+    </item>
+  </channel>
+</rss>
